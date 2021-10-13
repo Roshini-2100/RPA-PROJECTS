@@ -1,0 +1,2 @@
+Column1,Column2,Column3,Column4,Column5,Column6,Column7,Column8,Column9,Column10,Column11,Column12,Column13,Column14,Column15,Column16,Column17,Column18
+Amazon,Basics,USB,2.0,A-Male,to,Micro,B,"Cable,",3,"feet,",Black,$5.26$5.26,4.6,out,of,5,stars
